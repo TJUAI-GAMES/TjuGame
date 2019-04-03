@@ -297,3 +297,17 @@ Heads-up Limit Hold’em Poker is Solve
 4.扑克游戏描述语言：讲述如何设计计算机扑克，没有涉及到扑克游戏的一般性结构
 5.无限制德州扑克游戏中的男女框架和竞争策略：讲述德州扑克中男女出牌策略和竞争
 6.用增强现实技术增强传统游戏：数字技术增强特殊效果激发玩家的情感增强传统纸牌游戏的乐趣
+
+
+4.3
+张晓通（NO.26-NO.31）
+
+可能有一点用的论文：
+NO.26  Stripped-Down Poker: A Classroom Game with Signaling and Bluffing作者: Reiley, David H.; Urbancic, Michael B.; Walker, Mark. 作者自己创造了一种扑克游戏。建立我们的模型时可以参考这个玩法。
+
+一点用也没有的论文:
+NO.27建立了一个人类如何打扑克的模型，对象是人
+NO.28关于联合国海洋法，之所以入选是因为标题里有一个wild poker（万能牌的意思）
+NO.29打德州扑克的AI
+NO.30同29作者都是一个人
+NO.31自己设计了一个游戏，里面参考了各种游戏，其中就有poker
